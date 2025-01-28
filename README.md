@@ -32,3 +32,4 @@ cd storage/downloads/BotMercy
 ls
 python SlickMercy.py
 ```
+https://t.me/+u_6muHr5f-w5NzJh
