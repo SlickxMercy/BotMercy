@@ -18,12 +18,17 @@ pkg update && pkg upgrade
 
 pip install asyncio aiohttp pycryptodome colorama art httpx
 
-chmod +x SlickMercy.py code.py bot.py
-
-python SlickMercy.py
 ```
 ```bash
 cd storage/downloads
 git clone https://github.com/SlickxMercy/BotMercy
 cd BotMercy
+python SlickMercy.py
+```
+### Directory del Script (en caso de que quieras usar el script)
+
+```bash
+cd storage/downloads/BotMercy
+ls
+python SlickMercy.py
 ```
